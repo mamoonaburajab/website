@@ -19,14 +19,13 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 1rem 2rem;
-  background: rgb(255, 255, 255);
+  background-color: #215273;
   background: linear-gradient(
-    90deg,
-    rgb(255, 255, 255) 0%,
-    rgb(136, 137, 153) 24%,
-    rgb(35, 39, 78) 81%
+    to bottom,
+    rgba(9, 29, 85, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
   );
-  color: #000000;
+  color: #ffffff;
   position: relative;
   height: 70px;
 }
@@ -69,7 +68,7 @@ body {
     90deg,
     rgba(255, 255, 255, 1) 0%,
     rgba(146, 147, 170, 1) 0%,
-    rgba(32, 21, 80, 1) 0%
+    rgb(15, 13, 110) 0%
   );
   color: #fff;
   border: none;
@@ -88,6 +87,7 @@ body {
 @media (max-width: 768px) {
   .navbar .menu-button {
     display: block;
+    
   }
   .navbar .menu {
     display: none;
