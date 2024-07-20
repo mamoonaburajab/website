@@ -1,0 +1,282 @@
+[
+  {
+    "title": "منظم مكياج",
+    "price": "₪99.99",
+    "colors": ["Red"],
+    "imageUrl": "items/product1.jpg",
+    "description": "This is a detailed description of Product 1."
+  },
+  {
+    "title": "Product 2",
+    "price": "₪89.99",
+    "colors": ["Blue"],
+    "imageUrl": "items/product2.jpg",
+    "description": "This is a detailed description of Product 2."
+  },
+  {
+    "title": "Product 3",
+    "price": "₪79.99",
+    "colors": ["Green"],
+    "imageUrl": "items/product3.jpg",
+    "description": "This is a detailed description of Product 3."
+  },
+  {
+    "title": "Product 4",
+    "price": "₪69.99",
+    "colors": ["Yellow"],
+    "imageUrl": "items/product4.jpg",
+    "description": "This is a detailed description of Product 4."
+  },
+  {
+    "title": "Product 5",
+    "price": "₪59.99",
+    "colors": ["Black"],
+    "imageUrl": "items/product5.jpg",
+    "description": "This is a detailed description of Product 5."
+  },
+  {
+    "title": "Product 6",
+    "price": "₪49.99",
+    "colors": ["Orange"],
+    "imageUrl": "items/product6.jpg",
+    "description": "This is a detailed description of Product 6."
+  },
+  {
+    "title": "Product 7",
+    "price": "₪39.99",
+    "colors": ["Purple"],
+    "imageUrl": "items/product7.jpg",
+    "description": "This is a detailed description of Product 7."
+  },
+  {
+    "title": "Product 8",
+    "price": "₪29.99",
+    "colors": ["Cyan"],
+    "imageUrl": "items/product8.jpg",
+    "description": "This is a detailed description of Product 8."
+  },
+  {
+    "title": "Product 9",
+    "price": "₪19.99",
+    "colors": ["Magenta"],
+    "imageUrl": "items/product9.jpg",
+    "description": "This is a detailed description of Product 9."
+  },
+  {
+    "title": "Product 10",
+    "price": "₪109.99",
+    "colors": ["Teal"],
+    "imageUrl": "items/product10.jpg",
+    "description": "This is a detailed description of Product 10."
+  },
+  {
+    "title": "Product 11",
+    "price": "₪119.99",
+    "colors": ["Lime"],
+    "imageUrl": "items/product11.jpg",
+    "description": "This is a detailed description of Product 11."
+  },
+  {
+    "title": "Product 12",
+    "price": "₪129.99",
+    "colors": ["Brown"],
+    "imageUrl": "items/product12.jpg",
+    "description": "This is a detailed description of Product 12."
+  },
+  {
+    "title": "Product 13",
+    "price": "₪139.99",
+    "colors": ["Silver"],
+    "imageUrl": "items/product13.jpg",
+    "description": "This is a detailed description of Product 13."
+  },
+  {
+    "title": "Product 14",
+    "price": "₪149.99",
+    "colors": ["Gold"],
+    "imageUrl": "items/product14.jpg",
+    "description": "This is a detailed description of Product 14."
+  },
+  {
+    "title": "Product 15",
+    "price": "₪159.99",
+    "colors": ["Rose"],
+    "imageUrl": "items/product15.jpg",
+    "description": "This is a detailed description of Product 15."
+  },
+  {
+    "title": "Product 16",
+    "price": "₪169.99",
+    "colors": ["Cream"],
+    "imageUrl": "items/product16.jpg",
+    "description": "This is a detailed description of Product 16."
+  },
+  {
+    "title": "Product 17",
+    "price": "₪179.99",
+    "colors": ["Beige"],
+    "imageUrl": "items/product17.jpg",
+    "description": "This is a detailed description of Product 17."
+  },
+  {
+    "title": "Product 18",
+    "price": "₪189.99",
+    "colors": ["Coral"],
+    "imageUrl": "items/product18.jpg",
+    "description": "This is a detailed description of Product 18."
+  },
+  {
+    "title": "Product 19",
+    "price": "₪199.99",
+    "colors": ["Maroon"],
+    "imageUrl": "items/product19.jpg",
+    "description": "This is a detailed description of Product 19."
+  },
+  {
+    "title": "Product 20",
+    "price": "₪209.99",
+    "colors": ["Violet"],
+    "imageUrl": "items/product20.jpg",
+    "description": "This is a detailed description of Product 20."
+  },
+  {
+    "title": "Product 21",
+    "price": "₪219.99",
+    "colors": ["Navy"],
+    "imageUrl": "items/product21.jpg",
+    "description": "This is a detailed description of Product 21."
+  },
+  {
+    "title": "Product 22",
+    "price": "₪229.99",
+    "colors": ["Olive"],
+    "imageUrl": "items/product22.jpg",
+    "description": "This is a detailed description of Product 22."
+  },
+  {
+    "title": "Product 23",
+    "price": "₪239.99",
+    "colors": ["Indigo"],
+    "imageUrl": "items/product23.jpg",
+    "description": "This is a detailed description of Product 23."
+  },
+  {
+    "title": "Product 24",
+    "price": "₪249.99",
+    "colors": ["Teal"],
+    "imageUrl": "items/product24.jpg",
+    "description": "This is a detailed description of Product 24."
+  },
+  {
+    "title": "Product 25",
+    "price": "₪259.99",
+    "colors": ["Khaki"],
+    "imageUrl": "items/product25.jpg",
+    "description": "This is a detailed description of Product 25."
+  },
+  {
+    "title": "Product 26",
+    "price": "₪269.99",
+    "colors": ["Aqua"],
+    "imageUrl": "items/product26.jpg",
+    "description": "This is a detailed description of Product 26."
+  },
+  {
+    "title": "Product 27",
+    "price": "₪279.99",
+    "colors": ["Lavender"],
+    "imageUrl": "items/product27.jpg",
+    "description": "This is a detailed description of Product 27."
+  },
+  {
+    "title": "Product 28",
+    "price": "₪289.99",
+    "colors": ["Chartreuse"],
+    "imageUrl": "items/product28.jpg",
+    "description": "This is a detailed description of Product 28."
+  },
+  {
+    "title": "Product 29",
+    "price": "₪299.99",
+    "colors": ["Periwinkle"],
+    "imageUrl": "items/product29.jpg",
+    "description": "This is a detailed description of Product 29."
+  },
+  {
+    "title": "Product 30",
+    "price": "₪309.99",
+    "colors": ["Blush"],
+    "imageUrl": "items/product30.jpg",
+    "description": "This is a detailed description of Product 30."
+  },
+  {
+    "title": "Product 31",
+    "price": "₪319.99",
+    "colors": ["Mint"],
+    "imageUrl": "items/product31.jpg",
+    "description": "This is a detailed description of Product 31."
+  },
+  {
+    "title": "Product 32",
+    "price": "₪329.99",
+    "colors": ["Steel"],
+    "imageUrl": "items/product32.jpg",
+    "description": "This is a detailed description of Product 32."
+  },
+  {
+    "title": "Product 33",
+    "price": "₪339.99",
+    "colors": ["Rose Gold"],
+    "imageUrl": "items/product33.jpg",
+    "description": "This is a detailed description of Product 33."
+  },
+  {
+    "title": "Product 34",
+    "price": "₪349.99",
+    "colors": ["Rust"],
+    "imageUrl": "items/product34.jpg",
+    "description": "This is a detailed description of Product 34."
+  },
+  {
+    "title": "Product 35",
+    "price": "₪359.99",
+    "colors": ["Copper"],
+    "imageUrl": "items/product35.jpg",
+    "description": "This is a detailed description of Product 35."
+  },
+  {
+    "title": "Product 36",
+    "price": "₪369.99",
+    "colors": ["Sunset"],
+    "imageUrl": "items/product36.jpg",
+    "description": "This is a detailed description of Product 36."
+  },
+  {
+    "title": "Product 37",
+    "price": "₪379.99",
+    "colors": ["Ginger"],
+    "imageUrl": "items/product37.jpg",
+    "description": "This is a detailed description of Product 37."
+  },
+  {
+    "title": "Product 38",
+    "price": "₪389.99",
+    "colors": ["Peach"],
+    "imageUrl": "items/product38.jpg",
+    "description": "This is a detailed description of Product 38."
+  },
+  {
+    "title": "Product 39",
+    "price": "₪399.99",
+    "colors": ["Salmon"],
+    "imageUrl": "items/product39.jpg",
+    "description": "This is a detailed description of Product 39."
+  },
+  {
+    "title": "Product 40",
+    "price": "₪409.99",
+    "colors": ["Lilac"],
+    "imageUrl": "items/product40.jpg",
+    "description": "This is a detailed description of Product 40."
+  }
+]

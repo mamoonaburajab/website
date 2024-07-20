@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Cards</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="navbar">
+    <img src="Soft Store (1).png" alt="Logo" class="logo">
+    <div class="store-name">Store Name</div>
+    <button class="menu-button" onclick="toggleMenu()">☰</button>
+    <div class="menu">
+      <div class="language-switcher">
+        <button onclick="setLanguage('en')">EN</button>
+        <button onclick="setLanguage('ar')">AR</button>
+        <button onclick="setLanguage('he')">HE</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="header">
+    <h1>Our Products</h1>
+    <p>Explore our wide range of products</p>
+  </div>
+
+  <div id="product-container" class="product-container">
+    <!-- Product cards will be dynamically inserted here -->
+  </div>
+
+  <!-- Add your JavaScript here -->
+  <script src="script.js"></script>
+</body>
+</html>
