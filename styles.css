@@ -34,7 +34,7 @@ body {
   height: 120px;
   width: auto;
   position: static;
-  margin: -35px;
+  margin: -10px -35px;
 }
 
 .navbar .menu-button {

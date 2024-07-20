@@ -1,13 +1,13 @@
 [
   {
-    "title": "Product 4",
+    "title": "طاولة مكياج",
     "price": "₪319.99",
     "colors": ["Yellow"],
     "imageUrl": "items/product4.jpg",
     "description": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.\n✅بسعر 299 شيكل\n✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم\n✅يحتوي على 5 جوارير\n✅مصنوع من الخشب\n❌بدون مرآة\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
   },
   {
-    "title": "Product 7",
+    "title": "مراة مع منظم",
     "price": "₪69.99",
     "colors": ["Purple"],
     "imageUrl": "items/product7.jpg",
@@ -21,14 +21,14 @@
     "description": "اجعل لحظات الدراسة تتحول إلى تجربة ملهمة مع مكتب الدراسة الذي يجمع بين الراحة والأداء\n✅الحجم العرض 120 سم، العمق 60 سم، الطول 72 سم\n✅مصنوع من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
   },
   {
-    "title": "Product 15",
+    "title": "مكتب",
     "price": "₪229.99",
     "colors": ["Rose"],
     "imageUrl": "items/product15.jpg",
     "description": "نقدم لكم مكتب كمبيوتر بتصميم مميز....\n✅الحجم : الطول 120سم، العرض 100 سم، العمق 48سم\n✅يحتوي على رفوف علوية و سفلية لتنظيم الكتب و غيرها الاغراض\n✅متوفر بعدة ألوان (الخشبي و الابيض والسكني)\n✅مصنوع من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس"
   },
   {
-    "title": "Product 17",
+    "title": "مكتب او بيرو",
     "price": "₪319.99",
     "colors": ["Beige"],
     "imageUrl": "items/product17.jpg",
@@ -42,140 +42,140 @@
     "description": "أضف لمسة من المرح والسعادة إلى حديقة منزلك!\n✅بسعر 199 شيكل\n✅الحجم : الطول 110 سم، العرض 115 سم، العمق 70 سم\n✅تحمل وزن لغاية 100 كيلو\n✅مصنوعة من الحديد المكلفن ضد الصدأ\n✅متوفر خدمة التوصيل لباب البيت لكافة مناطق الضفة الغربية و القدس و مناطق الداخل"
   },
   {
-    "title": "Product 21",
+    "title": "منظم ملابس",
     "price": "₪229.99",
     "colors": ["ازرق"],
     "imageUrl": "items/product21.jpg",
     "description": "تنظيم مثالي وأناقة لا مثيل لها: خزانة الملابس مع العلاقة الجانبية، حلك الأمثل.\n✅الحجم : الطول 180 سم، العرض 40 سم، العمق 40 سم\n✅مصنوعة من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس ومناطق الداخل"
   },
   {
-    "title": "Product 22",
+    "title": "مكتب او طاولة",
     "price": "₪229.99",
     "colors": ["Olive"],
     "imageUrl": "items/product22.jpg",
     "description": "This is a detailed description of Product 22."
   },
   {
-    "title": "Product 23",
+    "title": "خزانة احذية",
     "price": "₪239.99",
     "colors": ["Indigo"],
     "imageUrl": "items/product23.jpg",
     "description": "This is a detailed description of Product 23."
   },
   {
-    "title": "Product 24",
+    "title": "منظم مكياج",
     "price": "₪249.99",
     "colors": ["Teal"],
     "imageUrl": "items/product24.jpg",
     "description": "This is a detailed description of Product 24."
   },
   {
-    "title": "Product 25",
+    "title": "مكتب ",
     "price": "₪259.99",
     "colors": ["Khaki"],
     "imageUrl": "items/product25.jpg",
     "description": "This is a detailed description of Product 25."
   },
   {
-    "title": "Product 26",
+    "title": "مكتبة",
     "price": "₪269.99",
     "colors": ["Aqua"],
     "imageUrl": "items/product26.jpg",
     "description": "This is a detailed description of Product 26."
   },
   {
-    "title": "Product 27",
+    "title": "مكتبة",
     "price": "₪279.99",
     "colors": ["Lavender"],
     "imageUrl": "items/product27.jpg",
     "description": "This is a detailed description of Product 27."
   },
   {
-    "title": "Product 28",
+    "title": "مكتب مع جوارير",
     "price": "₪289.99",
     "colors": ["Chartreuse"],
     "imageUrl": "items/product28.jpg",
     "description": "This is a detailed description of Product 28."
   },
   {
-    "title": "Product 29",
+    "title": "مكتب مع جوارير",
     "price": "₪299.99",
     "colors": ["Periwinkle"],
     "imageUrl": "items/product29.jpg",
     "description": "This is a detailed description of Product 29."
   },
   {
-    "title": "Product 30",
+    "title": "علاقة ملابس",
     "price": "₪309.99",
     "colors": ["Blush"],
     "imageUrl": "items/product30.jpg",
     "description": "This is a detailed description of Product 30."
   },
   {
-    "title": "Product 31",
+    "title": "بيرو مع مراة مضيئة",
     "price": "₪319.99",
     "colors": ["Mint"],
     "imageUrl": "items/product31.jpg",
     "description": "This is a detailed description of Product 31."
   },
   {
-    "title": "Product 32",
+    "title": "خزانة احذية",
     "price": "₪329.99",
     "colors": ["Steel"],
     "imageUrl": "items/product32.jpg",
     "description": "This is a detailed description of Product 32."
   },
   {
-    "title": "Product 33",
+    "title": "خزانة احذية",
     "price": "₪339.99",
     "colors": ["Rose Gold"],
     "imageUrl": "items/product33.jpg",
     "description": "This is a detailed description of Product 33."
   },
   {
-    "title": "Product 34",
+    "title": "مكتب ",
     "price": "₪349.99",
     "colors": ["Rust"],
     "imageUrl": "items/product34.jpg",
     "description": "This is a detailed description of Product 34."
   },
   {
-    "title": "Product 35",
+    "title": "مكتب مع رفوف",
     "price": "₪359.99",
     "colors": ["Copper"],
     "imageUrl": "items/product35.jpg",
     "description": "This is a detailed description of Product 35."
   },
   {
-    "title": "Product 36",
+    "title": "بيرو مع مراة مضيئة",
     "price": "₪369.99",
     "colors": ["Sunset"],
     "imageUrl": "items/product36.jpg",
     "description": "This is a detailed description of Product 36."
   },
   {
-    "title": "Product 37",
+    "title": "مكتبة او خزانة",
     "price": "₪379.99",
     "colors": ["Ginger"],
     "imageUrl": "items/product37.jpg",
     "description": "This is a detailed description of Product 37."
   },
   {
-    "title": "Product 38",
+    "title": "مكتبة او خزانة",
     "price": "₪389.99",
     "colors": ["Peach"],
     "imageUrl": "items/product38.jpg",
     "description": "This is a detailed description of Product 38."
   },
   {
-    "title": "Product 39",
+    "title": "خزانة او مكتبة",
     "price": "₪399.99",
     "colors": ["Salmon"],
     "imageUrl": "items/product39.jpg",
     "description": "This is a detailed description of Product 39."
   },
   {
-    "title": "Product 40",
+    "title": "خزانة احذية",
     "price": "₪409.99",
     "colors": ["Lilac"],
     "imageUrl": "items/product40.jpg",
