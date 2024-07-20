@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحة الإدارة</title>
+    <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+    <div class="navbar">
+        <img src="Soft Store (1).png" alt="Logo" class="logo">
+        <div class="store-name">اسم المتجر</div>
+        <div class="language-switcher">
+            <button onclick="setLanguage('en')">EN</button>
+            <button onclick="setLanguage('ar')">AR</button>
+            <button onclick="setLanguage('he')">HE</button>
+        </div>
+    </div>
+
+    <div class="admin-page">
+        <h1 data-en="Add New Product" data-ar="إضافة منتج جديد">إضافة منتج جديد</h1>
+        <form id="add-product-form">
+            <label for="product-title" data-en="Title:" data-ar="العنوان:">العنوان:</label>
+            <input type="text" id="product-title" name="title" required>
+
+            <label for="product-price" data-en="Price:" data-ar="السعر:">السعر:</label>
+            <input type="text" id="product-price" name="price" required>
+
+            <label for="product-colors" data-en="Colors (comma separated):" data-ar="الألوان (مفصولة بفواصل):">الألوان (مفصولة بفواصل):</label>
+            <input type="text" id="product-colors" name="colors" required>
+
+            <label for="product-image" data-en="Image:" data-ar="الصورة:">الصورة:</label>
+            <input type="file" id="product-image" name="image" accept="image/*" required>
+
+            <label for="product-description" data-en="Description:" data-ar="الوصف:">الوصف:</label>
+            <textarea id="product-description" name="description" required></textarea>
+
+            <button type="submit" data-en="Add Product" data-ar="إضافة منتج">إضافة منتج</button>
+        </form>
+        <div id="preview-container"></div>
+    </div>
+    <script src="admin.js"></script>
+</body>
+</html>

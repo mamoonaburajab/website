@@ -4,28 +4,36 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Product Details</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="styles1.css">
     </head>
-    <div class="navbar">
-        <img src="Soft Store (1).png" alt="Logo" class="logo">
-        <div class="menu-button" onclick="toggleMenu()">☰</div>
-        <div class="menu">
-            <div class="store-name">Store Name</div>
-            <div class="language-switcher">
+    <body>
+        <div class="navbar">
+            <a href="/index.html"> <img src="Soft Store (1).png" alt="Logo"
+                    class="logo"></a>
+            <div class="menu-button" onclick="toggleMenu()">☰</div>
+            <div class="menu">
+                <div class="store-name">Soft Store</div>
+                <!-- <div class="language-switcher">
                 <button onclick="setLanguage('en')">EN</button>
                 <button onclick="setLanguage('ar')">AR</button>
                 <button onclick="setLanguage('he')">HE</button>
+            </div> -->
             </div>
         </div>
-    </div>
         <div class="product-details-page">
-            <h1 id="product-title"></h1>
-            <img id="product-image" src alt="Product Image">
-            <p id="product-description"></p>
-            <p id="product-price"></p>
-            <p id="product-colors"></p>
-            <a id="whatsapp-link" class="order-link">Order via WhatsApp</a>
+            <div class="product-card">
+                <img id="product-image" src alt="Product Image"
+                    class="product-image">
+                <div class="product-info">
+                    <h1 id="product-title" class="product-title"></h1>
+                    <p id="product-description" class="product-description"></p>
+                    <p id="product-price" class="product-price"></p>
+                    <p id="product-colors" class="product-colors"></p>
+                    <a id="whatsapp-link" class="order-link">Order via
+                        WhatsApp</a>
+                </div>
+            </div>
         </div>
-        <script src="script.js"></script>
+        <script src="card.js"></script>
     </body>
 </html>

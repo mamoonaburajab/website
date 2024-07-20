@@ -1,150 +1,52 @@
 [
   {
-    "title": "منظم مكياج",
-    "price": "₪99.99",
-    "colors": ["Red"],
-    "imageUrl": "items/product1.jpg",
-    "description": "This is a detailed description of Product 1."
-  },
-  {
-    "title": "Product 2",
-    "price": "₪89.99",
-    "colors": ["Blue"],
-    "imageUrl": "items/product2.jpg",
-    "description": "This is a detailed description of Product 2."
-  },
-  {
-    "title": "Product 3",
-    "price": "₪79.99",
-    "colors": ["Green"],
-    "imageUrl": "items/product3.jpg",
-    "description": "This is a detailed description of Product 3."
-  },
-  {
     "title": "Product 4",
-    "price": "₪69.99",
+    "price": "₪319.99",
     "colors": ["Yellow"],
     "imageUrl": "items/product4.jpg",
-    "description": "This is a detailed description of Product 4."
-  },
-  {
-    "title": "Product 5",
-    "price": "₪59.99",
-    "colors": ["Black"],
-    "imageUrl": "items/product5.jpg",
-    "description": "This is a detailed description of Product 5."
-  },
-  {
-    "title": "Product 6",
-    "price": "₪49.99",
-    "colors": ["Orange"],
-    "imageUrl": "items/product6.jpg",
-    "description": "This is a detailed description of Product 6."
+    "description": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.\n✅بسعر 299 شيكل\n✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم\n✅يحتوي على 5 جوارير\n✅مصنوع من الخشب\n❌بدون مرآة\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
   },
   {
     "title": "Product 7",
-    "price": "₪39.99",
+    "price": "₪69.99",
     "colors": ["Purple"],
     "imageUrl": "items/product7.jpg",
-    "description": "This is a detailed description of Product 7."
+    "description": "استمتعي بتجربة مكياج لا تُضاهى مع مرآة مكياجنا المضيئة، التي توفر إضاءة مثالية وزاوية رؤية مثالية لإطلالة مثالية في كل مرة\n✅تحتوي على 3 ألوان إضاءة و يمكن التحكم بقوة الضوء\n✅تعمل بالشحن مرفق معها وصلة usb\n✅متوفر خدمة التوصيل لكافة مناطق الضفة الغربية و القدس و مناطق الداخل"
   },
   {
-    "title": "Product 8",
-    "price": "₪29.99",
-    "colors": ["Cyan"],
-    "imageUrl": "items/product8.jpg",
-    "description": "This is a detailed description of Product 8."
-  },
-  {
-    "title": "Product 9",
-    "price": "₪19.99",
-    "colors": ["Magenta"],
-    "imageUrl": "items/product9.jpg",
-    "description": "This is a detailed description of Product 9."
-  },
-  {
-    "title": "Product 10",
-    "price": "₪109.99",
-    "colors": ["Teal"],
-    "imageUrl": "items/product10.jpg",
-    "description": "This is a detailed description of Product 10."
-  },
-  {
-    "title": "Product 11",
-    "price": "₪119.99",
-    "colors": ["Lime"],
-    "imageUrl": "items/product11.jpg",
-    "description": "This is a detailed description of Product 11."
-  },
-  {
-    "title": "Product 12",
-    "price": "₪129.99",
+    "title": "مكتب",
+    "price": "₪250.99",
     "colors": ["Brown"],
     "imageUrl": "items/product12.jpg",
-    "description": "This is a detailed description of Product 12."
-  },
-  {
-    "title": "Product 13",
-    "price": "₪139.99",
-    "colors": ["Silver"],
-    "imageUrl": "items/product13.jpg",
-    "description": "This is a detailed description of Product 13."
-  },
-  {
-    "title": "Product 14",
-    "price": "₪149.99",
-    "colors": ["Gold"],
-    "imageUrl": "items/product14.jpg",
-    "description": "This is a detailed description of Product 14."
+    "description": "اجعل لحظات الدراسة تتحول إلى تجربة ملهمة مع مكتب الدراسة الذي يجمع بين الراحة والأداء\n✅الحجم العرض 120 سم، العمق 60 سم، الطول 72 سم\n✅مصنوع من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
   },
   {
     "title": "Product 15",
-    "price": "₪159.99",
+    "price": "₪229.99",
     "colors": ["Rose"],
     "imageUrl": "items/product15.jpg",
-    "description": "This is a detailed description of Product 15."
-  },
-  {
-    "title": "Product 16",
-    "price": "₪169.99",
-    "colors": ["Cream"],
-    "imageUrl": "items/product16.jpg",
-    "description": "This is a detailed description of Product 16."
+    "description": "نقدم لكم مكتب كمبيوتر بتصميم مميز....\n✅الحجم : الطول 120سم، العرض 100 سم، العمق 48سم\n✅يحتوي على رفوف علوية و سفلية لتنظيم الكتب و غيرها الاغراض\n✅متوفر بعدة ألوان (الخشبي و الابيض والسكني)\n✅مصنوع من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس"
   },
   {
     "title": "Product 17",
-    "price": "₪179.99",
+    "price": "₪319.99",
     "colors": ["Beige"],
     "imageUrl": "items/product17.jpg",
-    "description": "This is a detailed description of Product 17."
+    "description": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.\n✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم\n✅يحتوي على 5 جوارير\n✅مصنوع من الخشب\n❌بدون مرآة\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
   },
   {
-    "title": "Product 18",
-    "price": "₪189.99",
-    "colors": ["Coral"],
-    "imageUrl": "items/product18.jpg",
-    "description": "This is a detailed description of Product 18."
-  },
-  {
-    "title": "Product 19",
+    "title": "مرجوحة اطفال",
     "price": "₪199.99",
     "colors": ["Maroon"],
     "imageUrl": "items/product19.jpg",
-    "description": "This is a detailed description of Product 19."
-  },
-  {
-    "title": "Product 20",
-    "price": "₪209.99",
-    "colors": ["Violet"],
-    "imageUrl": "items/product20.jpg",
-    "description": "This is a detailed description of Product 20."
+    "description": "أضف لمسة من المرح والسعادة إلى حديقة منزلك!\n✅بسعر 199 شيكل\n✅الحجم : الطول 110 سم، العرض 115 سم، العمق 70 سم\n✅تحمل وزن لغاية 100 كيلو\n✅مصنوعة من الحديد المكلفن ضد الصدأ\n✅متوفر خدمة التوصيل لباب البيت لكافة مناطق الضفة الغربية و القدس و مناطق الداخل"
   },
   {
     "title": "Product 21",
-    "price": "₪219.99",
-    "colors": ["Navy"],
+    "price": "₪229.99",
+    "colors": ["ازرق"],
     "imageUrl": "items/product21.jpg",
-    "description": "This is a detailed description of Product 21."
+    "description": "تنظيم مثالي وأناقة لا مثيل لها: خزانة الملابس مع العلاقة الجانبية، حلك الأمثل.\n✅الحجم : الطول 180 سم، العرض 40 سم، العمق 40 سم\n✅مصنوعة من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس ومناطق الداخل"
   },
   {
     "title": "Product 22",
