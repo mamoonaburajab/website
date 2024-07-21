@@ -11,26 +11,40 @@ function setLanguage(lang) {
   });
 }
 
-// Fetch product data from JSON file
+// Fetch product data from URL parameters
 document.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
-  const title = params.get("title");
-  const description = params.get("description");
+  const titleEn = params.get("titleEn");
+  const titleAr = params.get("titleAr");
+  const titleHe = params.get("titleHe");
+  const descriptionEn = params.get("descriptionEn");
+  const descriptionAr = params.get("descriptionAr");
+  const descriptionHe = params.get("descriptionHe");
   const imageUrl = params.get("imageUrl");
   const price = params.get("price");
-  const colors = JSON.parse(params.get("colors") || "[]"); // Parse JSON array from string
 
-  document.getElementById("product-title").textContent = title;
+  document.getElementById("product-title").setAttribute("data-en", titleEn);
+  document.getElementById("product-title").setAttribute("data-ar", titleAr);
+  document.getElementById("product-title").setAttribute("data-he", titleHe);
+
+  document
+    .getElementById("product-description")
+    .setAttribute("data-en", descriptionEn);
+  document
+    .getElementById("product-description")
+    .setAttribute("data-ar", descriptionAr);
+  document
+    .getElementById("product-description")
+    .setAttribute("data-he", descriptionHe);
+
   document.getElementById("product-image").src = imageUrl;
-  document.getElementById("product-description").textContent = description;
-  document.getElementById("product-price").textContent = `Price: ${price}`;
-
-  // Convert the colors array to a comma-separated string
-  document.getElementById(
-    "product-colors"
-  ).textContent = `Colors: ${colors.join(", ")}`;
+  document.getElementById("product-price").textContent = `Price: ₪${price}`;
 
   document.getElementById(
     "whatsapp-link"
   ).href = `https://wa.me/message/FQLGFIUWY5WGA1`;
+
+  // Load the preferred language from local storage
+  const preferredLanguage = localStorage.getItem("preferredLanguage") || "en";
+  setLanguage(preferredLanguage);
 });

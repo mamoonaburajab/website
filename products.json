@@ -1,184 +1,102 @@
 [
   {
-    "title": "طاولة مكياج",
-    "price": "₪319.99",
-    "colors": ["Yellow"],
+    "titleEn": "Makeup Table",
+    "titleAr": "طاولة مكياج",
+    "titleHe": "שולחן איפור",
+    "price": "319.99",
     "imageUrl": "items/product4.jpg",
-    "description": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.\n✅بسعر 299 شيكل\n✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم\n✅يحتوي على 5 جوارير\n✅مصنوع من الخشب\n❌بدون مرآة\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
+    "descriptionEn": "Enjoy a luxurious and elegant atmosphere in your room with the distinctive vanity table, where comfort meets elegance for an unparalleled experience in your room.",
+    "descriptionAr": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.",
+    "descriptionHe": "תיהנו מאווירה מפוארת ואלגנטית בחדר שלכם עם שולחן האיפור הייחודי, בו הנוחות פוגשת את האלגנטיות לחוויה שאין כמותה בחדר שלכם."
   },
   {
-    "title": "مراة مع منظم",
-    "price": "₪69.99",
-    "colors": ["Purple"],
+    "titleEn": "Mirror with Organizer",
+    "titleAr": "مراة مع منظم",
+    "titleHe": "מראה עם מארגן",
+    "price": "69.99",
     "imageUrl": "items/product7.jpg",
-    "description": "استمتعي بتجربة مكياج لا تُضاهى مع مرآة مكياجنا المضيئة، التي توفر إضاءة مثالية وزاوية رؤية مثالية لإطلالة مثالية في كل مرة\n✅تحتوي على 3 ألوان إضاءة و يمكن التحكم بقوة الضوء\n✅تعمل بالشحن مرفق معها وصلة usb\n✅متوفر خدمة التوصيل لكافة مناطق الضفة الغربية و القدس و مناطق الداخل"
+    "descriptionEn": "Enjoy an unparalleled makeup experience with our illuminated makeup mirror, which provides perfect lighting and an ideal viewing angle for a perfect look every time.",
+    "descriptionAr": "استمتعي بتجربة مكياج لا تُضاهى مع مرآة مكياجنا المضيئة، التي توفر إضاءة مثالية وزاوية رؤية مثالية لإطلالة مثالية في كل مرة.",
+    "descriptionHe": "תיהנו מחוויית איפור שאין כמותה עם מראת האיפור המוארת שלנו, המספקת תאורה מושלמת וזווית ראייה אידיאלית למראה מושלם בכל פעם."
   },
   {
-    "title": "مكتب",
-    "price": "₪250.99",
-    "colors": ["Brown"],
-    "imageUrl": "items/product12.jpg",
-    "description": "اجعل لحظات الدراسة تتحول إلى تجربة ملهمة مع مكتب الدراسة الذي يجمع بين الراحة والأداء\n✅الحجم العرض 120 سم، العمق 60 سم، الطول 72 سم\n✅مصنوع من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
+    "titleEn": "Wooden Bookshelf",
+    "titleAr": "رف خشبي للكتب",
+    "titleHe": "מדף ספרים מעץ",
+    "price": "129.99",
+    "imageUrl": "items/product1.jpg",
+    "descriptionEn": "This stylish wooden bookshelf is perfect for organizing your books and adding a touch of elegance to your living room or office.",
+    "descriptionAr": "هذا الرف الخشبي الأنيق مثالي لتنظيم كتبك وإضافة لمسة من الأناقة إلى غرفة المعيشة أو المكتب.",
+    "descriptionHe": "מדף הספרים העץ המיוחד הזה מושלם לארגון הספרים שלכם ולהוספת נגיעה של אלגנטיות לחדר המגורים או למשרד שלכם."
   },
   {
-    "title": "مكتب",
-    "price": "₪229.99",
-    "colors": ["Rose"],
-    "imageUrl": "items/product15.jpg",
-    "description": "نقدم لكم مكتب كمبيوتر بتصميم مميز....\n✅الحجم : الطول 120سم، العرض 100 سم، العمق 48سم\n✅يحتوي على رفوف علوية و سفلية لتنظيم الكتب و غيرها الاغراض\n✅متوفر بعدة ألوان (الخشبي و الابيض والسكني)\n✅مصنوع من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس"
+    "titleEn": "Ceramic Vase",
+    "titleAr": "مزهرية خزفية",
+    "titleHe": "אגרטל קרמי",
+    "price": "49.99",
+    "imageUrl": "items/product2.jpg",
+    "descriptionEn": "This beautiful ceramic vase adds a touch of sophistication to any room, perfect for displaying fresh flowers or as a standalone decorative piece.",
+    "descriptionAr": "تضيف هذه المزهرية الخزفية الجميلة لمسة من الرقي إلى أي غرفة، مثالية لعرض الزهور الطازجة أو كقطعة ديكور مستقلة.",
+    "descriptionHe": "אגרטל הקרמיקה היפהפה הזה מוסיף נגיעה של תחכום לכל חדר, מושלם לתצוגת פרחים טריים או כיצירה דקורטיבית בפני עצמה."
   },
   {
-    "title": "مكتب او بيرو",
-    "price": "₪319.99",
-    "colors": ["Beige"],
-    "imageUrl": "items/product17.jpg",
-    "description": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.\n✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم\n✅يحتوي على 5 جوارير\n✅مصنوع من الخشب\n❌بدون مرآة\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس و مناطق الداخل"
+    "titleEn": "LED Desk Lamp",
+    "titleAr": "مصباح مكتب LED",
+    "titleHe": "מנורת שולחן LED",
+    "price": "34.99",
+    "imageUrl": "items/product3.jpg",
+    "descriptionEn": "Our LED desk lamp provides bright, adjustable light, making it perfect for reading, studying, or working at your desk.",
+    "descriptionAr": "يوفر مصباح المكتب LED الخاص بنا ضوءًا ساطعًا وقابل للتعديل، مما يجعله مثاليًا للقراءة أو الدراسة أو العمل على مكتبك.",
+    "descriptionHe": "מנורת השולחן LED שלנו מספקת אור בהיר וניתן לכוונון, מה שהופך אותה למושלמת לקריאה, לימודים או עבודה על שולחן העבודה שלכם."
   },
   {
-    "title": "مرجوحة اطفال",
-    "price": "₪199.99",
-    "colors": ["Maroon"],
-    "imageUrl": "items/product19.jpg",
-    "description": "أضف لمسة من المرح والسعادة إلى حديقة منزلك!\n✅بسعر 199 شيكل\n✅الحجم : الطول 110 سم، العرض 115 سم، العمق 70 سم\n✅تحمل وزن لغاية 100 كيلو\n✅مصنوعة من الحديد المكلفن ضد الصدأ\n✅متوفر خدمة التوصيل لباب البيت لكافة مناطق الضفة الغربية و القدس و مناطق الداخل"
+    "titleEn": "Wall Art Print",
+    "titleAr": "طباعة فنية على الحائط",
+    "titleHe": "הדפסת אמנות קיר",
+    "price": "24.99",
+    "imageUrl": "items/product5.jpg",
+    "descriptionEn": "Enhance your home decor with this stunning wall art print, featuring vibrant colors and intricate details.",
+    "descriptionAr": "عزّز ديكور منزلك بهذه الطباعة الفنية الرائعة على الحائط، والتي تتميز بألوان زاهية وتفاصيل معقدة.",
+    "descriptionHe": "שפרו את עיצוב הבית שלכם עם הדפסת אמנות קיר מדהימה זו, הכוללת צבעים תוססים ופרטים מורכבים."
   },
   {
-    "title": "منظم ملابس",
-    "price": "₪229.99",
-    "colors": ["ازرق"],
-    "imageUrl": "items/product21.jpg",
-    "description": "تنظيم مثالي وأناقة لا مثيل لها: خزانة الملابس مع العلاقة الجانبية، حلك الأمثل.\n✅الحجم : الطول 180 سم، العرض 40 سم، العمق 40 سم\n✅مصنوعة من الخشب\n✅متوفر خدمة التوصيل لباب البيت لجميع مناطق الضفة الغربية والقدس ومناطق الداخل"
+    "titleEn": "Kitchen Utensil Set",
+    "titleAr": "مجموعة أدوات مطبخ",
+    "titleHe": "סט כלי מטבח",
+    "price": "59.99",
+    "imageUrl": "items/product6.jpg",
+    "descriptionEn": "This comprehensive kitchen utensil set includes everything you need for cooking and baking, made from high-quality materials for durability.",
+    "descriptionAr": "تتضمن مجموعة أدوات المطبخ الشاملة هذه كل ما تحتاجه للطهي والخبز، مصنوعة من مواد عالية الجودة لضمان المتانة.",
+    "descriptionHe": "סט כלי המטבח המקיף הזה כולל את כל מה שאתם צריכים לבישול ואפייה, עשוי מחומרים באיכות גבוהה לעמידות מרבית."
   },
   {
-    "title": "مكتب او طاولة",
-    "price": "₪229.99",
-    "colors": ["Olive"],
-    "imageUrl": "items/product22.jpg",
-    "description": "This is a detailed description of Product 22."
+    "titleEn": "Bluetooth Speaker",
+    "titleAr": "مكبر صوت بلوتوث",
+    "titleHe": "רמקול בלוטות'",
+    "price": "89.99",
+    "imageUrl": "items/product8.jpg",
+    "descriptionEn": "Experience high-quality sound with our portable Bluetooth speaker, perfect for parties, picnics, or just relaxing at home.",
+    "descriptionAr": "اختبر صوتًا عالي الجودة مع مكبر الصوت البلوتوث المحمول الخاص بنا، المثالي للحفلات والنزهات أو الاسترخاء في المنزل.",
+    "descriptionHe": "חוו סאונד באיכות גבוהה עם רמקול ה-Bluetooth הנייד שלנו, מושלם למסיבות, פיקניקים או סתם להירגע בבית."
   },
   {
-    "title": "خزانة احذية",
-    "price": "₪239.99",
-    "colors": ["Indigo"],
-    "imageUrl": "items/product23.jpg",
-    "description": "This is a detailed description of Product 23."
+    "titleEn": "Fitness Tracker",
+    "titleAr": "متعقب اللياقة البدنية",
+    "titleHe": "גלאי כושר",
+    "price": "99.99",
+    "imageUrl": "items/product9.jpg",
+    "descriptionEn": "Stay on top of your health and fitness goals with our advanced fitness tracker, featuring heart rate monitoring, step counting, and more.",
+    "descriptionAr": "ابقَ على اطلاع على أهداف صحتك ولياقتك مع متعقب اللياقة البدنية المتقدم لدينا، والذي يتميز بمراقبة معدل ضربات القلب وعد الخطوات والمزيد.",
+    "descriptionHe": "שמרו על מעקב אחר יעדי הבריאות והכושר שלכם עם גלאי הכושר המתקדם שלנו, הכולל ניטור קצב לב, ספירת צעדים ועוד."
   },
   {
-    "title": "منظم مكياج",
-    "price": "₪249.99",
-    "colors": ["Teal"],
-    "imageUrl": "items/product24.jpg",
-    "description": "This is a detailed description of Product 24."
-  },
-  {
-    "title": "مكتب ",
-    "price": "₪259.99",
-    "colors": ["Khaki"],
-    "imageUrl": "items/product25.jpg",
-    "description": "This is a detailed description of Product 25."
-  },
-  {
-    "title": "مكتبة",
-    "price": "₪269.99",
-    "colors": ["Aqua"],
-    "imageUrl": "items/product26.jpg",
-    "description": "This is a detailed description of Product 26."
-  },
-  {
-    "title": "مكتبة",
-    "price": "₪279.99",
-    "colors": ["Lavender"],
-    "imageUrl": "items/product27.jpg",
-    "description": "This is a detailed description of Product 27."
-  },
-  {
-    "title": "مكتب مع جوارير",
-    "price": "₪289.99",
-    "colors": ["Chartreuse"],
-    "imageUrl": "items/product28.jpg",
-    "description": "This is a detailed description of Product 28."
-  },
-  {
-    "title": "مكتب مع جوارير",
-    "price": "₪299.99",
-    "colors": ["Periwinkle"],
-    "imageUrl": "items/product29.jpg",
-    "description": "This is a detailed description of Product 29."
-  },
-  {
-    "title": "علاقة ملابس",
-    "price": "₪309.99",
-    "colors": ["Blush"],
-    "imageUrl": "items/product30.jpg",
-    "description": "This is a detailed description of Product 30."
-  },
-  {
-    "title": "بيرو مع مراة مضيئة",
-    "price": "₪319.99",
-    "colors": ["Mint"],
-    "imageUrl": "items/product31.jpg",
-    "description": "This is a detailed description of Product 31."
-  },
-  {
-    "title": "خزانة احذية",
-    "price": "₪329.99",
-    "colors": ["Steel"],
-    "imageUrl": "items/product32.jpg",
-    "description": "This is a detailed description of Product 32."
-  },
-  {
-    "title": "خزانة احذية",
-    "price": "₪339.99",
-    "colors": ["Rose Gold"],
-    "imageUrl": "items/product33.jpg",
-    "description": "This is a detailed description of Product 33."
-  },
-  {
-    "title": "مكتب ",
-    "price": "₪349.99",
-    "colors": ["Rust"],
-    "imageUrl": "items/product34.jpg",
-    "description": "This is a detailed description of Product 34."
-  },
-  {
-    "title": "مكتب مع رفوف",
-    "price": "₪359.99",
-    "colors": ["Copper"],
-    "imageUrl": "items/product35.jpg",
-    "description": "This is a detailed description of Product 35."
-  },
-  {
-    "title": "بيرو مع مراة مضيئة",
-    "price": "₪369.99",
-    "colors": ["Sunset"],
-    "imageUrl": "items/product36.jpg",
-    "description": "This is a detailed description of Product 36."
-  },
-  {
-    "title": "مكتبة او خزانة",
-    "price": "₪379.99",
-    "colors": ["Ginger"],
-    "imageUrl": "items/product37.jpg",
-    "description": "This is a detailed description of Product 37."
-  },
-  {
-    "title": "مكتبة او خزانة",
-    "price": "₪389.99",
-    "colors": ["Peach"],
-    "imageUrl": "items/product38.jpg",
-    "description": "This is a detailed description of Product 38."
-  },
-  {
-    "title": "خزانة او مكتبة",
-    "price": "₪399.99",
-    "colors": ["Salmon"],
-    "imageUrl": "items/product39.jpg",
-    "description": "This is a detailed description of Product 39."
-  },
-  {
-    "title": "خزانة احذية",
-    "price": "₪409.99",
-    "colors": ["Lilac"],
-    "imageUrl": "items/product40.jpg",
-    "description": "This is a detailed description of Product 40."
+    "titleEn": "Smart Home Camera",
+    "titleAr": "كاميرا منزل ذكية",
+    "titleHe": "מצלמת בית חכמה",
+    "price": "149.99",
+    "imageUrl": "items/product10.jpg",
+    "descriptionEn": "Keep your home secure with our smart home camera, offering high-definition video, motion detection, and remote access via your smartphone.",
+    "descriptionAr": "احمِ منزلك باستخدام كاميرا المنزل الذكية الخاصة بنا، والتي توفر فيديو عالي الدقة، واكتشاف الحركة، والوصول عن بُعد عبر هاتفك الذكي.",
+    "descriptionHe": "שמרו על ביטחון הבית שלכם עם מצלמת הבית החכמה שלנו, המציעה וידאו באיכות גבוהה, זיהוי תנועה וגישה מרחוק דרך הסמארטפון שלכם."
   }
 ]

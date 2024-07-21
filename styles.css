@@ -67,7 +67,7 @@ body {
     90deg,
     rgba(255, 255, 255, 1) 0%,
     rgba(146, 147, 170, 1) 0%,
-    rgb(15, 13, 110) 0%
+    rgb(0, 0, 0) 0%
   );
   color: #fff;
   border: none;
@@ -99,9 +99,9 @@ body {
       90deg,
       rgba(255, 255, 255, 1) 0%,
       rgba(146, 147, 170, 1) 0%,
-      rgba(32, 21, 80, 0.63) 0%
+      rgba(175, 170, 196, 0.63) 0%
     );
-    width: 50%;
+    width: 30%;
     padding: 1rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     float: right;

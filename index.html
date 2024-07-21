@@ -12,8 +12,7 @@
             <div class="store-name">Soft Store</div>
             <img
                 src="https://img.icons8.com/?size=100&id=3096&format=png&color=ffffff"
-                alt="Menu" class="menu-button"
-                onclick="toggleMenu()">
+                alt="Menu" class="menu-button" onclick="toggleMenu()">
             <div class="menu">
                 <div class="language-switcher">
                     <button onclick="setLanguage('en')">EN</button>
@@ -24,15 +23,18 @@
         </div>
 
         <div class="header">
-            <h1>Our Products</h1>
-            <p>Explore our wide range of products</p>
+            <h1 data-en="Our Products" data-ar="منتجاتنا"
+                data-he="המוצרים שלנו">Our Products</h1>
+            <p data-en="Explore our wide range of products"
+                data-ar="استكشف مجموعتنا الواسعة من المنتجات"
+                data-he="חקור את מגוון המוצרים הרחב שלנו">Explore our wide range
+                of products</p>
         </div>
 
         <div id="product-container" class="product-container">
             <!-- Product cards will be dynamically inserted here -->
         </div>
 
-        <!-- Add your JavaScript here -->
         <script src="script.js"></script>
     </body>
 </html>
