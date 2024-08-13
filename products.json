@@ -1,15 +1,5 @@
 [
   {
-    "titleEn": "Makeup Table",
-    "titleAr": "بيرو خشبي",
-    "titleHe": "ביירו עץ",
-    "price": "349.99",
-    "imageUrl": "items/product55.jpg",
-    "descriptionEn": "Enjoy a luxurious and elegant atmosphere in your room with the distinctive vanity table, where comfort meets elegance for an unparalleled experience in your room.",
-    "descriptionAr": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك.",
-    "descriptionHe": "תיהנו מאווירה מפוארת ואלגנטית בחדר שלכם עם שולחן האיפור הייחודי, בו הנוחות פוגשת את האלגנטיות לחוויה שאין כמותה בחדר שלכם."
-  },
-  {
     "id": 2,
     "titleEn": "Wooden Desk",
     "titleAr": "مكتب خشبي",
@@ -19,6 +9,39 @@
     "descriptionEn": "Make your academic journey more effective with the study table that meets your needs. ✅Size: Length 131 cm, Width 120 cm, Depth 45 cm",
     "descriptionAr": "اجعل رحلتك الأكاديمية أكثر فاعلية مع طاولة الدراسة التي تلبي احتياجاتك ✅الحجم :الطول 131 سم ،العرض 120 سم ،العمق 45 سم",
     "descriptionHe": "הפוך את המסע האקדמי שלך ליותר אפקטיבי עם שולחן הלימודים שמתאים לצרכים שלך ✅גודל: אורך 131 ס\"מ, רוחב 120 ס\"מ, עומק 45 ס\"מ"
+  },
+  {
+    "id": 25,
+    "titleEn": "Dresser",
+    "titleAr": "بيرو",
+    "titleHe": "שידת מגירות",
+    "price": "359",
+    "imageUrl": "items/product80.jpg",
+    "descriptionEn": "Add the finest furniture to your room, dear. We present to you a distinctive wooden dresser... ✅Size: Length 119 cm, Width 100 cm, Depth 40 cm ✅Comes with a lighted mirror and a USB connection ✅Features 6 drawers and shelves for accessories and other essentials ✅Made of wood",
+    "descriptionAr": "ضيفي لغرفتك عزيزتي أرقى الأثاث. نقدم لكِ بيرو خشبي مميز... ✅الحجم: الطول 119 سم، العرض 100 سم، العمق 40 سم ✅مرآة مضيئة مرفق معها وصلة USB ✅تحتوي على 6 جوارير ورفوف لوضع الإكسسوارات والمستلزمات الأخرى ✅مصنوع من الخشب",
+    "descriptionHe": "הוסיפי לחדרך את הרהיטים המובחרים ביותר, יקירתי. אנו מציעים לך שידת מגירות מעץ ייחודית... ✅מידות: אורך 119 ס\"מ, רוחב 100 ס\"מ, עומק 40 ס\"מ ✅כוללת מראה מוארת וחיבור USB ✅כוללת 6 מגירות ומדפים לאביזרים ודברים נוספים ✅עשויה מעץ"
+  },
+  {
+    "id": 26,
+    "titleEn": "Dresser",
+    "titleAr": "بيرو",
+    "titleHe": "שידת מגירות",
+    "price": "359",
+    "imageUrl": "items/product81.jpg",
+    "descriptionEn": "Enjoy a luxurious and elegant atmosphere in your room with this distinctive dresser, where comfort meets style for an unmatched experience. ✅Size: Length 120 cm, Width 80-95 cm, Depth 40 cm ✅Features 5 drawers ✅Comes with a lighted mirror and a USB connection ✅Made of wood",
+    "descriptionAr": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك. ✅الحجم: الطول 120 سم، العرض 80-95 سم، العمق 40 سم ✅يحتوي على 5 جوارير ✅مرآة مضيئة مرفق معها وصلة USB ✅مصنوع من الخشب",
+    "descriptionHe": "תיהני מאווירה יוקרתית ואלגנטית בחדרך עם השידה המיוחדת, בה נפגשים נוחות וסטייל לחוויה שאין כמותה. ✅מידות: אורך 120 ס\"מ, רוחב 80-95 ס\"מ, עומק 40 ס\"מ ✅כוללת 5 מגירות ✅כוללת מראה מוארת וחיבור USB ✅עשויה מעץ"
+  },
+  {
+    "id": 27,
+    "titleEn": "Dresser",
+    "titleAr": "بيرو",
+    "titleHe": "שידת מגירות",
+    "price": "329",
+    "imageUrl": "items/product82.jpg",
+    "descriptionEn": "Enjoy a luxurious and elegant atmosphere in your room with this distinctive dresser, where comfort meets style for an unmatched experience. ✅Size: Length 116 cm, Width 80 cm, Depth 40 cm ✅Includes a lighted mirror with a USB connection ✅Features 2 drawers ✅Made of wood",
+    "descriptionAr": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك. ✅الحجم: الطول 116 سم، العرض 80 سم، العمق 40 سم ✅يحتوي على مرآة مضيئة مرفق معها وصلة USB ✅يحتوي على جوارير عدد 2 ✅مصنوع من الخشب",
+    "descriptionHe": "תיהני מאווירה יוקרתית ואלגנטית בחדרך עם השידה המיוחדת, בה נפגשים נוחות וסטייל לחוויה שאין כמותה. ✅מידות: אורך 116 ס\"מ, רוחב 80 ס\"מ, עומק 40 ס\"מ ✅כוללת מראה מוארת עם חיבור USB ✅כוללת 2 מגירות ✅עשויה מעץ"
   },
   {
     "id": 3,
@@ -32,6 +55,29 @@
     "descriptionHe": "הוסף נגיעה של כיף ושמחה לגינת ביתך! ✅אורך 110 ס\"מ, רוחב 115 ס\"מ, עומק 70 ס\"מ ✅נושאת משקל עד 100 ק\"ג ✅עשויה מברזל מגולוון נגד חלודה"
   },
   {
+    "id": 29,
+    "titleEn": "Toothbrush and Toothpaste Holder",
+    "titleAr": "حافظة فراشي ومعجون الأسنان",
+    "titleHe": "מתקן למברשות שיניים ומשחת שיניים",
+    "price": "12",
+    "imageUrl": "items/product83.png",
+    "descriptionEn": "Toothbrush and toothpaste holder... ✅Price: 5 shekels ✅Plastic holder for storing toothbrushes and toothpaste while at work, on the go, or traveling ✅Can also be used for makeup brushes or as a pencil case ✅Colors are sent randomly",
+    "descriptionAr": "حافظة فراشي ومعجون الأسنان... ✅بسعر 5 شيكل ✅حافظة بلاستيكية لحفظ فراشي ومعجون الأسنان أثناء العمل والتنقل والسفر ✅كما يمكن استخدامها لفراشي الميك آب ويمكن استخدامها كمقلمة ✅ترسل الألوان بشكل عشوائي",
+    "descriptionHe": "מתקן למברשות שיניים ומשחת שיניים... ✅מחיר: 5 שקל ✅מתקן פלסטיק לאחסון מברשות שיניים ומשחת שיניים בזמן עבודה, תנועה או נסיעה ✅ניתן להשתמש בו גם למברשות איפור או כתיק עפרונות ✅הצבעים נשלחים באופן אקראי"
+  },
+  {
+    "id": 30,
+    "titleEn": "Bathroom Organizer",
+    "titleAr": "منظم الحمام",
+    "titleHe": "ארגונית לאמבטיה",
+    "price": "119",
+    "imageUrl": "items/product85.png",
+    "descriptionEn": "Keep your bathroom always organized with the perfect bathroom organizer, providing space-saving and stylish organization! ✅Can store toiletries and cleaning supplies ✅Made of wood and metal",
+    "descriptionAr": "اجعل حمامك مرتب دائماً مع منظم الحمام المثالي، توفير للمساحة وأناقة في التنظيم! ✅يمكن وضع مستحضرات الغسيل ومواد التنظيف ✅مصنوعة من الخشب والمعدن",
+    "descriptionHe": "שמרו על האמבטיה שלכם תמיד מסודרת עם הארגונית המושלמת, לחיסכון במקום ולארגון אלגנטי! ✅מתאימה לאחסון מוצרי טיפוח וניקיון ✅עשויה מעץ ומתכת"
+  }
+,  
+  {
     "id": 4,
     "titleEn": "Table",
     "titleAr": "طاولة",
@@ -42,17 +88,7 @@
     "descriptionAr": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك. ✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم ✅يحتوي على 5 جوارير",
     "descriptionHe": "תיהנו מאווירה מפוארת ואלגנטית בחדר שלכם עם שולחן האיפור הייחודי, בו הנוחות פוגשת את האלגנטיות לחוויה שאין כמותה בחדר שלכם. ✅גודל: אורך 73 ס\"מ, רוחב 100-130 ס\"מ, עומק 40 ס\"מ ✅כולל 5 מגירות"
   },
-  {
-    "id": 5,
-    "titleEn": "Makeup Mirror",
-    "titleAr": "مراة مكياج",
-    "titleHe": "מראת איפור",
-    "price": "69",
-    "imageUrl": "items/product7.jpg",
-    "descriptionEn": "Enjoy an unparalleled makeup experience with our illuminated makeup mirror, which provides perfect lighting and an ideal viewing angle for a flawless look every time. ✅Includes 3 lighting colors and adjustable light intensity ✅Rechargeable with included USB cable",
-    "descriptionAr": "استمتعي بتجربة مكياج لا تُضاهى مع مرآة مكياجنا المضيئة، التي توفر إضاءة مثالية وزاوية رؤية مثالية لإطلالة مثالية في كل مرة ✅تحتوي على 3 ألوان إضاءة و يمكن التحكم بقوة الضوء ✅تعمل بالشحن مرفق معها وصلة usb",
-    "descriptionHe": "תיהנו מחוויית איפור שאין כמותה עם מראת האיפור המוארת שלנו, שמספקת תאורה מושלמת וזווית ראייה אידיאלית למראה מושלם בכל פעם ✅כוללת 3 צבעי תאורה ואפשרות להתאמת עוצמת האור ✅נטענת עם כבל USB כלול"
-  },
+
   {
     "id": 6,
     "titleEn": "Clothes Rack",
@@ -64,39 +100,7 @@
     "descriptionAr": "اجعل حياتك أكثر تنظيمًا وأناقة مع منظم الأحذية والملابس، لتوفير مساحة وتنظيم مثالي لملابسك وأحذيتك بأسلوب عصري وعملي. ✅بسعر 59 شيكل ✅الحجم : الطول 170 سم ،العرض 60 سم ،العمق 26 سم ✅مصنوعة من المعدن",
     "descriptionHe": "הפוך את חייך ליותר מאורגנים ומסוגננים עם מארגן הנעליים והבגדים, המספק שטח וסדר מושלמים לבגדיך ונעליך בצורה מודרנית ומעשית. ✅מחיר: 59 שקל ✅גודל: אורך 170 ס\"מ, רוחב 60 ס\"מ, עומק 26 ס\"מ ✅עשוי ממתכת"
   },
-  {
-    "id": 7,
-    "titleEn": "Desk or Table",
-    "titleAr": "طاولة او مكتب",
-    "titleHe": "שולחן או משרד",
-    "price": "219",
-    "imageUrl": "items/product12.jpg",
-    "descriptionEn": "Discover the comfort of working and creativity with the computer table designed to enhance your performance and organize your space. ✅Price: 219 shekels ✅Dimensions: Width 120 cm, Depth 60 cm, Height 75 cm ✅Available in three colors",
-    "descriptionAr": "اكتشف راحة العمل والإبداع مع طاولة الكمبيوتر المصممة لتحسين أدائك وتنظيم مساحتك. ✅بسعر 219 شيكل ✅القياسات :العرض 120سم، العمق 60سم، الطول 75 سم ✅متوفر بثلاث الوان",
-    "descriptionHe": "גלה את נוחות העבודה והיצירתיות עם שולחן המחשב שעוצב כדי לשפר את הביצועים שלך ולארגן את החלל שלך. ✅מחיר: 219 שקל ✅מידות: רוחב 120 ס\"מ, עומק 60 ס\"מ, גובה 75 ס\"מ ✅זמין בשלושה צבעים"
-  },
-  {
-    "id": 8,
-    "titleEn": "Desk or Table",
-    "titleAr": "طاولة او مكتب",
-    "titleHe": "שולחן או משרד",
-    "price": "219",
-    "imageUrl": "items/product13.jpg",
-    "descriptionEn": "Discover the comfort of working and creativity with the computer table designed to enhance your performance and organize your space. ✅Price: 219 shekels ✅Dimensions: Width 120 cm, Depth 60 cm, Height 75 cm ✅Available in three colors",
-    "descriptionAr": "اكتشف راحة العمل والإبداع مع طاولة الكمبيوتر المصممة لتحسين أدائك وتنظيم مساحتك. ✅بسعر 219 شيكل ✅القياسات :العرض 120سم، العمق 60سم، الطول 75 سم ✅متوفر بثلاث الوان",
-    "descriptionHe": "גלה את נוחות העבודה והיצירתיות עם שולחן המחשב שעוצב כדי לשפר את הביצועים שלך ולארגן את החלל שלך. ✅מחיר: 219 שקל ✅מידות: רוחב 120 ס\"מ, עומק 60 ס\"מ, גובה 75 ס\"מ ✅זמין בשלושה צבעים"
-  },
-  {
-    "id": 8,
-    "titleEn": "Desk or Table",
-    "titleAr": "طاولة او مكتب",
-    "titleHe": "שולחן או משרד",
-    "price": "219",
-    "imageUrl": "items/product14.jpg",
-    "descriptionEn": "Discover the comfort of working and creativity with the computer table designed to enhance your performance and organize your space. ✅Price: 219 shekels ✅Dimensions: Width 120 cm, Depth 60 cm, Height 75 cm ✅Available in three colors",
-    "descriptionAr": "اكتشف راحة العمل والإبداع مع طاولة الكمبيوتر المصممة لتحسين أدائك وتنظيم مساحتك. ✅بسعر 219 شيكل ✅القياسات :العرض 120سم، العمق 60سم، الطول 75 سم ✅متوفر بثلاث الوان",
-    "descriptionHe": "גלה את נוחות העבודה והיצירתיות עם שולחן המחשב שעוצב כדי לשפר את הביצועים שלך ולארגן את החלל שלך. ✅מחיר: 219 שקל ✅מידות: רוחב 120 ס\"מ, עומק 60 ס\"מ, גובה 75 ס\"מ ✅זמין בשלושה צבעים"
-  },
+
   {
     "id": 9,
     "titleEn": "Desk or Table",
@@ -108,17 +112,7 @@
     "descriptionAr": "نقدم لكم مكتب كمبيوتر بتصميم مميز.... ✅بسعر 199 شيكل ✅الحجم : الطول 120سم، العرض 100 سم، العمق 48سم ✅يحتوي على رفوف علوية و سفلية لتنظيم الكتب و غيرها الاغراض ✅مصنوع من الخشب",
     "descriptionHe": "אנו מציגים בפניכם שולחן מחשב בעיצוב ייחודי.... ✅מחיר: 199 שקל ✅מידות: אורך 120 ס\"מ, רוחב 100 ס\"מ, עומק 48 ס\"מ ✅כולל מדפים עליונים ותחתונים לארגון ספרים ופריטים אחרים ✅עשוי מעץ"
   },
-  {
-    "id": 10,
-    "titleEn": "Table",
-    "titleAr": "طاولة",
-    "titleHe": "שולחן",
-    "price": "299",
-    "imageUrl": "items/product17.jpg",
-    "descriptionEn": "Enjoy a luxurious and elegant atmosphere in your room with the distinctive vanity table, where comfort meets elegance for an unparalleled experience in your room. ✅Size: Length 73 cm, Width 100-130 cm, Depth 40 cm ✅Includes 5 drawers ✅Made of wood",
-    "descriptionAr": "استمتعي بأجواء فاخرة وأنيقة في غرفتك مع التواليت المميز ، حيث تلتقي الراحة بالأناقة لتجربة لا مثيل لها في غرفتك. ✅الحجم :الطول 73 سم العرض 100-130 سم، العمق 40 سم ✅يحتوي على 5 جوارير ✅مصنوع من الخشب",
-    "descriptionHe": "תיהנו מאווירה מפוארת ואלגנטית בחדר שלכם עם שולחן האיפור הייחודי, בו הנוחות פוגשת את האלגנטיות לחוויה שאין כמותה בחדר שלכם. ✅גודל: אורך 73 ס\"מ, רוחב 100-130 ס\"מ, עומק 40 ס\"מ ✅כולל 5 מגירות ✅עשוי מעץ"
-  },
+
   {
     "id": 11,
     "titleEn": "Children's Swing",
@@ -130,50 +124,7 @@
     "descriptionAr": "أضف لمسة من المرح والسعادة إلى حديقة منزلك! ✅الطول 110 سم ،العرض 115 سم ،العمق 70 سم ✅تحمل وزن لغاية 100 كيلو ✅مصنوعة من الحديد المكلفن ضد الصدأ",
     "descriptionHe": "הוסף נגיעה של כיף ושמחה לגינת ביתך! ✅אורך 110 ס\"מ, רוחב 115 ס\"מ, עומק 70 ס\"מ ✅נושאת משקל עד 100 ק\"ג ✅עשויה מברזל מגולוון נגד חלודה"
   },
-  {
-    "id": 12,
-    "titleEn": "Desk or Table",
-    "titleAr": "طاولة او مكتب",
-    "titleHe": "שולחן או משרד",
-    "price": "199",
-    "imageUrl": "items/product22.jpg",
-    "descriptionEn": "Turn study moments into an inspiring experience with the study desk that combines comfort and performance. ✅Price: 199 shekels ✅Size: Width 120 cm, Depth 60 cm, Height 73 cm ✅Made of wood",
-    "descriptionAr": "اجعل لحظات الدراسة تتحول إلى تجربة ملهمة مع مكتب الدراسة الذي يجمع بين الراحة والأداء ✅بسعر 199 شيكل ✅الحجم العرض 120 سم، العمق 60 سم، الطول 73 سم ✅مصنوعة من الخشب",
-    "descriptionHe": "הפוך את רגעי הלימוד לחוויה מעוררת השראה עם שולחן הלימוד המשלב נוחות וביצועים. ✅מחיר: 199 שקל ✅מידות: רוחב 120 ס\"מ, עומק 60 ס\"מ, גובה 73 ס\"מ ✅עשוי מעץ"
-  },
-  {
-    "id": 13,
-    "titleEn": "Shoe Rack",
-    "titleAr": "رفوف احذية",
-    "titleHe": "מדף נעליים",
-    "price": "179",
-    "imageUrl": "items/product23.jpg",
-    "descriptionEn": "We always offer you the best.... The best shoe rack with a seat... ✅Size: Length 52 cm, Width 120 cm, Depth 32 cm ✅Made of wood ✅Available in brown and wooden colors ✅Supports up to 70 kg",
-    "descriptionAr": "بنقدملك الأروع دائماً.... اروع رف احذية مع مقعد... ✅القياسات : الطول 52 سم، العرض 120 سم، العمق 32سم ✅مصنوع من الخشب ✅متوفر باللونين البني و الخشبي ✅يتحمل وزن لغاية 70 كيلو",
-    "descriptionHe": "אנחנו תמיד מציעים לך את הטוב ביותר.... מדף הנעליים הטוב ביותר עם מושב... ✅מידות: אורך 52 ס\"מ, רוחב 120 ס\"מ, עומק 32 ס\"מ ✅עשוי מעץ ✅זמין בצבעים חום ועץ ✅תומך במשקל עד 70 ק\"ג"
-  },
-  {
-    "id": 14,
-    "titleEn": "Bookshelf",
-    "titleAr": "مكتبة",
-    "titleHe": "ספרייה",
-    "price": "179",
-    "imageUrl": "items/product27.jpg",
-    "descriptionEn": "Make your reading an enjoyable and organized experience with a bookshelf to arrange your books, offering elegance and ease in finding your favorite books quickly and easily. ✅Size: Length 180 cm, Width 40 cm, Depth 24 cm ✅Made of wood",
-    "descriptionAr": "اجعل قراءتك تصبح تجربة ممتعة ومنظمة مع مكتبة لترتيب الكتب، لتحظى بأناقة وسهولة في العثور على كتبك المفضلة بسرعة ويسر ✅الحجم :الطول 180سم، العرض 40سم، العمق 24 سم ✅مصنوعة من الخشب",
-    "descriptionHe": "הפוך את הקריאה שלך לחוויה מהנה ומאורגנת עם ספרייה לסידור הספרים שלך, המציעה אלגנטיות ונוחות במציאת הספרים האהובים עליך במהירות ובקלות. ✅גודל: אורך 180 ס\"מ, רוחב 40 ס\"מ, עומק 24 ס\"מ ✅עשוי מעץ"
-  },
-  {
-    "id": 15,
-    "titleEn": "Shoe Cabinet",
-    "titleAr": "خزانة احذية",
-    "titleHe": "ארון נעליים",
-    "price": "179",
-    "imageUrl": "items/product32.jpg",
-    "descriptionEn": "For a modern and organized home... We present to you a shoe cabinet with doors.. ✅Contains 7 layers ✅Size: Length 118 cm, Width 42 cm, Depth 30 cm ✅Made of wood",
-    "descriptionAr": "لمنزل بطابع عصري ومنظم... نقدم لك خزانة أحذية مع دفات.. ✅تحتوي على 7 طبقات ✅الحجم :الطول 118 سم، العرض 42سم، العمق 30سم ✅مصنوعة من الخشب",
-    "descriptionHe": "לבית מודרני ומאורגן... אנו מציגים בפניכם ארון נעליים עם דלתות.. ✅מכיל 7 שכבות ✅גודל: אורך 118 ס\"מ, רוחב 42 ס\"מ, עומק 30 ס\"מ ✅עשוי מעץ"
-  },
+
   {
     "id": 16,
     "titleEn": "Portable Gas Stove",
@@ -208,6 +159,18 @@
     "descriptionAr": "اجعلي روتين تصفيف الشعر أسهل وأكثر تنظيم مع حامل مجفف الشعر العصري، لتحافظي على أدوات الشعر الخاصة بك في متناول اليد دون فوضى! ✅يحتوي على لاصق ذاتي للتثبيت ✅مصنوعة من البلاستيك",
     "descriptionHe": "הפכי את שגרת עיצוב השיער שלך לקלה ומאורגנת יותר עם מתקן למייבש שיער המודרני, שיביא את כלי השיער שלך בהישג יד מבלי להסתבך! ✅כולל מדבקה דבקית להתקנה ✅עשוי מפלסטיק"
   },
+  {
+    "id": 24,
+    "titleEn": "Office Desk",
+    "titleAr": "مكتب",
+    "titleHe": "שולחן עבודה",
+    "price": "249",
+    "imageUrl": "items/product61.jpg",
+    "descriptionEn": "Make your work more comfortable and productive with computer desks designed specifically to meet your needs. ✅Size: Length 100 cm, Width 60 cm, Height 74 cm ✅Made of wood",
+    "descriptionAr": "اجعل عملك أكثر راحة وإنتاجية مع طاولات الكمبيوتر المصممة خصيصًا لتلبية احتياجاتك. ✅الحجم: الطول 100 سم، العرض 60 سم، الارتفاع 74 سم ✅مصنوع من الخشب",
+    "descriptionHe": "הפכו את העבודה לנוחה ופרודוקטיבית יותר עם שולחנות מחשב שתוכננו במיוחד כדי לענות על הצרכים שלכם. ✅מידות: אורך 100 ס\"מ, רוחב 60 ס\"מ, גובה 74 ס\"מ ✅עשוי עץ"
+  },
+
   {
     "id": 19,
     "titleEn": "Organizer with Mirror",
