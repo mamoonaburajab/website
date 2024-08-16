@@ -1,5 +1,82 @@
 [
   {
+    "id": 31,
+    "titleEn": "Elegant Wooden Stool",
+    "titleAr": "طاولة خشبية ",
+    "titleHe": "שרפרף עץ יוקרתי",
+    "price": "49",
+    "imageUrl": "items/product90.jpg",
+    "descriptionEn": "For only 49 shekels, add a touch of elegance and luxury to your home with this unique stool that combines beauty and comfort. ✅Size: Length 60 cm, Width 45 cm, Depth 30 cm ✅Made of wood ✅Home delivery service available",
+    "descriptionAr": "بسعر 49 شيكل فقط، أضف لمسة من الأناقة والفخامة إلى منزلك مع هذا الكرسي الفريد الذي يجمع بين الجمال والراحة. ✅الحجم: الطول 60 سم، العرض 45 سم، العمق 30 سم ✅مصنوع من الخشب ✅خدمة التوصيل إلى المنازل متوفرة",
+    "descriptionHe": "במחיר של 49 ש\"ח בלבד, הוסף נגיעה של אלגנטיות ויוקרה לביתך עם השרפרף הייחודי שמשלב יופי ונוחות. ✅גודל: אורך 60 ס\"מ, רוחב 45 ס\"מ, עומק 30 ס\"מ ✅עשוי מעץ ✅שירות משלוחים עד הבית זמין"
+  },
+  {
+    "id": 32,
+    "titleEn": "Luxury Fabric Storage Box",
+    "titleAr": "صندوق تخزين قماشي فاخر",
+    "titleHe": "קופסת אחסון בד יוקרתית",
+    "price": "30",
+    "imageUrl": "items/product91.jpg",
+    "descriptionEn": "For only 30 shekels, keep your wardrobe organized and elegant with this luxury fabric storage box – the perfect solution for organizing your closet with a touch of elegance and practicality. ✅Size: Length 19 cm, Width 47 cm, Depth 28 cm ✅Made of fabric ✅Home delivery service available",
+    "descriptionAr": "بسعر 30 شيكل فقط، حافظ على ترتيب وأناقة خزانتك مع صندوق التخزين القماشي الفاخر – الحل الأمثل لتنظيم خزانتك بلمسة من الأناقة والعملية. ✅الحجم: الطول 19 سم، العرض 47 سم، العمق 28 سم ✅مصنوع من قماش ✅خدمة التوصيل إلى المنازل متوفرة",
+    "descriptionHe": "במחיר של 30 ש\"ח בלבד, שמור על הסדר והאלגנטיות בארון שלך עם קופסת הבד היוקרתית – הפתרון המושלם לארגון הארון שלך במגע של אלגנטיות ופרקטיות. ✅גודל: אורך 19 ס\"מ, רוחב 47 ס\"מ, עומק 28 ס\"מ ✅עשוי מבד ✅זמינות שירות משלוחים"
+  },
+  {
+    "id": 33,
+    "titleEn": "Underwear and Socks Organizer Set",
+    "titleAr": "مجموعة منظم الملابس الداخلية والجوارب",
+    "titleHe": "מארגן לבגדי תחתונים וגרביים",
+    "price": "35",
+    "imageUrl": "items/product92.jpg",
+    "descriptionEn": "Just arrived! For 35 shekels, keep every item in its place with this underwear and socks organizer set, ensuring your drawer is always neat and organized. ✅The set includes 4 pieces ✅Available in multiple colors ✅Made of fabric",
+    "descriptionAr": "وصل حديثًا! بسعر 35 شيكل، ضع كل قطعة في مكانها مع مجموعة منظم الملابس الداخلية والجوارب للحصول على درج مرتب ومنظم دائمًا. ✅يحتوي الطقم على 4 قطع ✅متوفر بعدة ألوان ✅مصنوع من قماش",
+    "descriptionHe": "הגענו לאחרונה! במחיר של 35 ש\"ח, הכניסו כל פריט למקומו עם מארגן לבגדי תחתונים וגרביים לקבלת מגירה מסודרת ומאורגנת תמיד. ✅הסט כולל 4 חלקים ✅זמין במספר צבעים ✅עשוי מבד"
+  },
+  {
+    "id": 34,
+    "titleEn": "Broom and Mop Organizer",
+    "titleAr": "علاقة ترتيب المكانس و المماسح",
+    "titleHe": "מארגן מטאטאים ומגבים",
+    "price": "12",
+    "imageUrl": "items/product94.jpg",
+    "descriptionEn": "Make organizing brooms and mops easy with this broom and mop organizer, designed to save space and enhance the look of your home. ✅Price: 12 shekels ✅Very high quality ✅Equipped with strong self-adhesive ✅Made of plastic ✅Home delivery service available",
+    "descriptionAr": "اجعل تنظيم المكانس و المماسح أمرًا سهلاً مع علاقة ترتيب المكانس و المماسح ، لتوفير المساحة وتحسين مظهر منزلك ✅بسعر 12شيكل ✅جودة عالية جدًا ✅تحتوي على لاصق ذاتي قوي ✅مصنوعة من البلاستيك ✅متوفر خدمة التوصيل لباب البيت",
+    "descriptionHe": "הפכו את סידור המטאטאים והמגבים לקל עם מארגן מטאטאים ומגבים, לחיסכון במקום ושיפור המראה של ביתכם. ✅מחיר: 12 ש\"ח ✅איכות גבוהה מאוד ✅כולל דבק עצמי חזק ✅עשוי מפלסטיק ✅שירות משלוחים לבית זמין"
+  },
+  {
+    "id": 35,
+    "titleEn": "Makeup Organizer",
+    "titleAr": "منظم المكياج",
+    "titleHe": "מארגן איפור",
+    "price": "99",
+    "imageUrl": "items/product95.jpg",
+    "descriptionEn": "Get the makeup organizer that ensures perfect order and easy access to all your cosmetics, making your beauty routine effortless. ✅Price: 99 shekels ✅Size: Length 36 cm, Width 27.5 cm, Depth 19.5 cm ✅Made of plastic ✅Home delivery service available",
+    "descriptionAr": "احصلي على منظم المكياج الذي يضمن لك ترتيبًا مثاليًا وسهولة في الوصول إلى جميع مستحضرات التجميل الخاصة بك، لتجربة جمالية بلا عناء ✅بسعر 99 شيكل ✅الحجم: الطول 36 سم، العرض 27.5 سم، العمق 19.5 سم ✅مصنوع من البلاستيك ✅متوفر خدمة التوصيل",
+    "descriptionHe": "קבלי את מארגן האיפור שמבטיח סדר מושלם ונגישות קלה לכל מוצרי הקוסמטיקה שלך, לחוויית יופי ללא מאמץ. ✅מחיר: 99 ש\"ח ✅גודל: אורך 36 ס\"מ, רוחב 27.5 ס\"מ, עומק 19.5 ס\"מ ✅עשוי מפלסטיק ✅שירות משלוחים לבית זמין"
+  },
+  {
+    "id": 37,
+    "titleEn": "Modern Clothing Rack",
+    "titleAr": "ستاند لتعليق الملابس بشكل عصري",
+    "titleHe": "סטנד לתליית בגדים בעיצוב מודרני",
+    "price": "69",
+    "imageUrl": "items/product96.jpg",
+    "descriptionEn": "Organize your clothes stylishly with our modern clothing rack. ✅Price: 69 shekels for the small size ✅High quality ✅Available in black and white ✅Made of metal ✅Features side hooks for bags or other items ✅Includes a bottom shelf for additional storage or shoes ✅Small size dimensions: Length 150 cm, Width 110 cm, Depth 40 cm ✅Home delivery service available",
+    "descriptionAr": "نظمي ملابسك بشكل أنيق مع ستاند لتعليق الملابس بشكل عصري. ✅بسعر 69 شيكل للحجم الصغير ✅جودة عالية ✅متوفر باللونين الأسود والأبيض ✅مصنوع من الحديد ✅يحتوي على علاقات جانبية لوضع الشنط أو غيرها من الأغراض ✅يحتوي على رف سفلي لوضع الأغراض أو وضع الأحذية ✅المقاس الحجم الصغير: الطول 150 سم، العرض 110 سم، العمق 40 سم ✅متوفر خدمة التوصيل",
+    "descriptionHe": "ארגני את הבגדים שלך בצורה סגנונית עם הסטנד לתליית בגדים בעיצוב מודרני. ✅מחיר: 69 ש\"ח לגודל הקטן ✅איכות גבוהה ✅זמין בצבעים שחור ולבן ✅עשוי ממתכת ✅כולל תפסים צדדיים לתיקים או פריטים אחרים ✅כולל מדף תחתון לאחסון נוסף או נעליים ✅מימדי הגודל הקטן: אורך 150 ס\"מ, רוחב 110 ס\"מ, עומק 40 ס\"מ ✅שירות משלוחים לבית זמין"
+  },
+  {
+    "id": 36,
+    "titleEn": "Kitchen Organizer with Built-in Trash Bin",
+    "titleAr": "منظم مطبخ مع سلة مهملات مدمجة",
+    "titleHe": "מארגן מטבח עם פח אשפה מובנה",
+    "price": "99",
+    "imageUrl": "items/product97.jpeg",
+    "descriptionEn": "Keep your kitchen organized and clean with this kitchen organizer with a built-in trash bin. Enjoy a delightful cooking experience and easy cleaning at your fingertips. ✅Price: 99 shekels ✅Size: Length 81 cm, Width 33 cm, Depth 20 cm ✅Available in multiple colors (white, gray) ✅Home delivery service available in all areas",
+    "descriptionAr": "احصل على مطبخ منظم ونظيف مع منظم المطبخ وسلة مهملات مدمجة ،تجربة طهي ممتعة وتنظيف سهل بمتناول يديك ✅بسعر 99 شيكل ✅الحجم: الطول 81سم، العرض 33 سم، العمق 20 سم ✅متوفر بعدة ألوان (الأبيض، السكني) ✅متوفر خدمة التوصيل لكافة المناطق",
+    "descriptionHe": "שמרו על המטבח שלכם מסודר ונקי עם מארגן מטבח עם פח אשפה מובנה. חווית בישול מהנה וניקיון קל בהישג ידכם. ✅מחיר: 99 ש\"ח ✅גודל: אורך 81 ס\"מ, רוחב 33 ס\"מ, עומק 20 ס\"מ ✅זמין במספר צבעים (לבן, אפור) ✅שירות משלוחים זמין לכל האזורים"
+  },
+  {
     "id": 2,
     "titleEn": "Wooden Desk",
     "titleAr": "مكتب خشبي",
@@ -75,8 +152,7 @@
     "descriptionEn": "Keep your bathroom always organized with the perfect bathroom organizer, providing space-saving and stylish organization! ✅Can store toiletries and cleaning supplies ✅Made of wood and metal",
     "descriptionAr": "اجعل حمامك مرتب دائماً مع منظم الحمام المثالي، توفير للمساحة وأناقة في التنظيم! ✅يمكن وضع مستحضرات الغسيل ومواد التنظيف ✅مصنوعة من الخشب والمعدن",
     "descriptionHe": "שמרו על האמבטיה שלכם תמיד מסודרת עם הארגונית המושלמת, לחיסכון במקום ולארגון אלגנטי! ✅מתאימה לאחסון מוצרי טיפוח וניקיון ✅עשויה מעץ ומתכת"
-  }
-,  
+  },
   {
     "id": 4,
     "titleEn": "Table",
